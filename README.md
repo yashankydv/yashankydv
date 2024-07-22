@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Yashank Yadav 👾</h1>
-<h3 align="center">An aspiring project manager from Hyderabad, INDIA.</h3>
+<h3 align="center">Champion Leader | Aspiring Project Manager | Building a Tech-Driven Future</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashankyv&label=Profile%20views&color=0e75b6&style=flat" alt="yashankyv" /> </p>
 
