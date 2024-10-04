@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Commercial ERP Platform.<br>🌱 I’m currently learning Advanced Java & Web Development.<br>💬 Ask me about Technology, Finance & Management.<br>⚡ I'm a curious soul.
+🔭 I’m currently working on a Commercial ERP Platform.<br>🌱 I’m currently learning Advanced Java & Web Development.<br>💬 Ask me about Technology, Finance & Management.<br>⚡ I'm a Curious Soul.
 
 
 ## 🌐 Socials:
