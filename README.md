@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on a Commercial ERP Platform.<br>🌱 I’m currently learning Advanced Java & Web Development.<br>💬 Ask me about Technology, Finance & Management.<br>⚡ I'm a Curious Soul.
+🔭 I’m currently working on a Commercial ERP Platform.<br>🌱 I’m currently learning Advanced Java & Web Development.<br>💬 Ask me about Technology & Operations.<br>⚡ I'm a Curious Soul.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashankydv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashankydv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yashankydv) 
 
 # 💻 Tech Stack:
@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yashankydv&icon=6&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
